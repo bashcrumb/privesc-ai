@@ -1,0 +1,2 @@
+[console_scripts]
+privesc-ai = privesc_ai.cli:cli
