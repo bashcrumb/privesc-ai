@@ -2,7 +2,7 @@
 
 AI-Assisted privilege escalation helper for unix-like systems, designed for pentesting labs, CTF environments, and post-exploitation research.
 
-This project explorts using LLM-based reasoning to analyze system enumeration output and suggest likely privesc paths. It is intended as a research and workflow-assistance tool, not a fully automated exploitation framework.
+This project explores using LLM-based reasoning to analyze system enumeration output and suggest likely privesc paths. It is intended as a research and workflow-assistance tool, not a fully automated exploitation framework.
 
 ---
 
